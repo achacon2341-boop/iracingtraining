@@ -1,2 +1,3 @@
-2026/03/07-19:11:21.649 2b4c Creating DB C:\Users\achac\Documents\Unreal Projects\iRacingTraining\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/03/07-19:11:21.664 2b4c Reusing MANIFEST C:\Users\achac\Documents\Unreal Projects\iRacingTraining\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/07-19:48:16.344 49f0 Reusing MANIFEST C:\GitHub Repositories\iracingtraining\iRacingTraining\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/07-19:48:16.344 49f0 Recovering log #3
+2026/03/07-19:48:16.344 49f0 Reusing old log C:\GitHub Repositories\iracingtraining\iRacingTraining\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
