@@ -1,0 +1,32 @@
+[9640:18268:0307/191115.384:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9640:1928:0307/191115.443:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9640:18268:0307/191115.470:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9640:18268:0307/191121.649:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[9640:18268:0307/191128.205:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9640:18268:0307/191128.205:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9640:18268:0307/191128.206:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9640:18268:0307/191128.206:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9640:15400:0307/191128.536:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[15568:14668:0307/191130.150:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15568:14668:0307/191130.183:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[15568:14668:0307/191138.087:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[15568:14668:0307/191151.877:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[15876:15420:0307/191351.767:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15876:15420:0307/191351.767:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[9640:18268:0307/191610.455:ERROR:device_event_log_impl.cc(196)] [19:16:10.163] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/191610.455:ERROR:device_event_log_impl.cc(196)] [19:16:10.204] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192044.857:ERROR:device_event_log_impl.cc(196)] [19:20:44.703] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192044.857:ERROR:device_event_log_impl.cc(196)] [19:20:44.738] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192138.862:ERROR:device_event_log_impl.cc(196)] [19:21:38.769] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192138.862:ERROR:device_event_log_impl.cc(196)] [19:21:38.817] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192234.212:ERROR:device_event_log_impl.cc(196)] [19:22:34.166] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192234.212:ERROR:device_event_log_impl.cc(196)] [19:22:34.201] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192446.562:ERROR:device_event_log_impl.cc(196)] [19:24:46.556] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192446.895:ERROR:device_event_log_impl.cc(196)] [19:24:46.592] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192739.596:ERROR:device_event_log_impl.cc(196)] [19:27:39.476] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192739.596:ERROR:device_event_log_impl.cc(196)] [19:27:39.518] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192831.266:ERROR:device_event_log_impl.cc(196)] [19:28:31.077] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192831.266:ERROR:device_event_log_impl.cc(196)] [19:28:31.112] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192959.960:ERROR:device_event_log_impl.cc(196)] [19:29:59.783] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/192959.960:ERROR:device_event_log_impl.cc(196)] [19:29:59.818] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9640:18268:0307/193046.612:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
